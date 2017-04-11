@@ -1,0 +1,8 @@
+ColdFusionIntent Who is the best programmer in the room
+ColdFusionIntent Who is the best Cold Fusion programmer in the room
+ColdFusionIntent Who is your favorite Cold Fusion programmer
+ColdFusionIntent Who is your favorite Cold Fusion programmer in the room
+
+WhoIsColdFusionIntent Is {PersonName} the best programmer in the room
+WhoIsColdFusionIntent Is {PersonName} the best Cold Fusion programmer in the room
+WhoIsColdFusionIntent Is {PersonName} your favorite programmer

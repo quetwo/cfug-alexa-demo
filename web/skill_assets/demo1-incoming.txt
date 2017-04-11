@@ -1,0 +1,24 @@
+{
+  "session": {
+    "sessionId": "SessionId.797f83a3-e007-4988-0000-5b0000000b81",
+    "application": {
+      "applicationId": "amzn1.ask.skill.bb782bea-8f0a-437f-0000-000000000000"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.****************************************"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.671b4e46-f4c0-47b0-b642-000000000000",
+    "locale": "en-US",
+    "timestamp": "2017-04-09T21:12:03Z",
+    "intent": {
+      "name": "ColdFusionIntent",
+      "slots": {}
+    }
+  },
+  "version": "1.0"
+}

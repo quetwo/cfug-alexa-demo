@@ -1,0 +1,18 @@
+{
+  "intents":
+  [
+    {
+      "intent": "ColdFusionIntent"
+    },
+    {
+      "intent": "WhoIsColdFusionIntent",
+      "slots":
+      [
+        {
+          "name": "PersonName",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}
